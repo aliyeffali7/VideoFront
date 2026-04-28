@@ -1,6 +1,6 @@
 import { useState } from 'react'
 
-const API_BASE = 'video.bykadov.com'  // user will change this
+const API_BASE = 'https://video.bykadov.com'
 
 const QUALITY_OPTIONS = [
   { label: 'Best', value: 'best' },
